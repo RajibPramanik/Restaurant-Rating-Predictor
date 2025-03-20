@@ -1,9 +1,5 @@
 ## 🍽️ Restaurant-Rating-Predictor
 
-![GitHub](https://img.shields.io/badge/Project-Type-ML%20App-blue) ![GitHub](https://img.shields.io/badge/Language-Python-blue) ![GitHub](https://img.shields.io/badge/Library-Streamlit-red)  
-
----
-
 ### 🚀 **About the Project**
 The **Restaurant Rating Predictor** is a machine learning project built using **Python** and **Streamlit**.  
 It predicts the average rating of a restaurant based on certain features like:  
@@ -41,41 +37,6 @@ It predicts the average rating of a restaurant based on certain features like:
 
 ---
 
-## 📁 **Project Structure**
-```bash
-📂 restaurant-rating-predictor
-├── 📄 app.py              # Main Streamlit app file
-├── 📄 rating_prediction_model.pkl # Pre-trained ML model
-├── 📄 README.md           # Project details
-```
-
----
-
-## ⚙️ **Setup Instructions**
-### Step 1: Clone the repository  
-```bash
-git clone https://github.com/your-username/restaurant-rating-predictor.git
-cd restaurant-rating-predictor
-```
-
-### Step 2: Create a virtual environment  
-```bash
-python -m venv env
-source env/bin/activate  # On Windows: .\env\Scripts\activate
-```
-
-### Step 3: Install the dependencies  
-```bash
-pip install -r requirements.txt
-```
-
-### Step 4: Run the Streamlit app  
-```bash
-streamlit run app.py
-```
-
----
-
 ## 🚨 **Usage Instructions**
 1. Open the app using the link generated in the terminal.  
 2. Enter the details in the input fields:  
@@ -102,21 +63,8 @@ streamlit run app.py
 
 ---
 
-## ✅ **Future Improvements**
-- Add more features (e.g., customer reviews)  
-- Improve model performance using more complex models  
-- Include geographical-based analysis  
-
----
-
-## 📌 **Contributors**
-👨‍💻 **Your Name** – [GitHub](https://github.com/your-username)  
-
----
-
 ## 💡 **Feedback**
 If you like this project, please ⭐ the repository!  
-For issues or suggestions, open a GitHub issue or reach out.  
 
 ---
 
